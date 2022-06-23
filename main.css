@@ -204,6 +204,7 @@ nav a{
 }
 
 .split .right ul li a {
+    font-size: 25px;
     color: #d0d0d0;
     display: flex;
     padding: 10px;
